@@ -1,7 +1,7 @@
-# ClinicBot AI OS 🚀
+# Autonex 🚀
 **The AI that really does things — Complete Autonomous Execution, Local AI & Multi-Agent Swarm Platform**
 
-ClinicBot AI OS ek next-generation autonomous AI platform hai jo user ko sirf chat responses nahi, balki end-to-end complete kiya hua kaam deta hai.
+Autonex ek next-generation autonomous AI platform hai jo user ko sirf chat responses nahi, balki end-to-end complete kiya hua kaam deta hai.
 
 ## Core Capabilities
 
